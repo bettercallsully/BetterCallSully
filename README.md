@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile View Counter](https://komarev.com/ghpvc/?bettercallsully=bettercallsully)
+![Profile View Counter](https://komarev.com/ghpvc/?username=bettercallsully)
 
 <!--
 **bettercallsully/bettercallsully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
