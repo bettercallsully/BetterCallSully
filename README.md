@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... Microverse Curriculum
-- 🌱 I’m currently learning ... Javascript, Rudy, RoR, Algos & DS
+- 🌱 I’m currently learning ... Javascript, Ruby, RoR, React, Algos & DS
 - 💬 Ask me about ... Mac and Cheese Recipe
 - 📫 How to reach me: ... Gmail!
 - ⚡ Fun fact: ... I LOVE HOT WINGS 🔥
