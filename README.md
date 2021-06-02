@@ -1,4 +1,4 @@
-### What's up!? 👋
+### What's up!? I'm Sully 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bettercallsully)
 
 <!--
