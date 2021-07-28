@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Javascript, Ruby, RoR, React, Algos & DS💻
 - 💬 Ask me about ... My special Mac and Cheese Recipe😉
 - 📫 How to reach me: ... Gmail🖱️
-- ⚡ Fun fact: ... I LOVE HOT WINGS🔥
 
